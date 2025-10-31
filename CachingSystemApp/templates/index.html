@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Proximity Search</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map { height: 400px; width: 100%; margin-bottom: 20px; }
+    .table-container { max-height: 200px; overflow-y: auto; margin-top: 10px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background-color: #f2f2f2; }
+    input, button { padding: 8px; margin: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Proximity Search</h1>
+
+  <div>
+    <button id="useLocation">Use my current location</button>
+    <input type="number" id="distance" placeholder="Distance (km)" />
+    <button id="searchBtn">Search friends</button>
+  </div>
+
+  <div id="map"></div>
+
+  <div>
+    <h2>Results</h2>
+    <p id="responseTime"></p>
+
+    <h3>PostgreSQL Results</h3>
+    <div class="table-container">
+      <table id="resultsTablePG">
+        <thead>
+          <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+            <th>Distance (km)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <h3>Redis Results</h3>
+    <div class="table-container">
+      <table id="resultsTableRedis">
+        <thead>
+          <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+            <th>Distance (km)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    let ID = 1;
+    let map = L.map('map').setView([46.77, 23.59], 7);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    let marker, radiusCircle;
+    let pgMarkers = [], redisMarkers = [];
+
+    // Selectare punct pe hartă
+    map.on('click', function(e) {
+      if (marker) map.removeLayer(marker);
+      if (radiusCircle) map.removeLayer(radiusCircle);
+      marker = L.marker(e.latlng).addTo(map);
+      marker.bindPopup(`Lat: ${e.latlng.lat.toFixed(6)}, Long: ${e.latlng.lng.toFixed(6)}`).openPopup();
+    });
+
+    // Locația curentă
+    document.getElementById('useLocation').addEventListener('click', function() {
+      navigator.geolocation.getCurrentPosition(function(position) {
+        const lat = position.coords.latitude;
+        const lng = position.coords.longitude;
+        map.setView([lat, lng], 12);
+        if (marker) map.removeLayer(marker);
+        marker = L.marker([lat, lng]).addTo(map);
+        marker.bindPopup(`Lat: ${lat.toFixed(6)}, Long: ${lng.toFixed(6)}`).openPopup();
+      }, function(err) {
+        alert("Error in obtaining current location: " + err.message);
+      });
+    });
+
+    // Buton Search
+    document.getElementById('searchBtn').addEventListener('click', function() {
+      const distance = parseFloat(document.getElementById('distance').value);
+      if (!marker) { alert("Select a point on the map or use your current location"); return; }
+      if (!distance || distance <= 0) { alert("Enter a valid distance"); return; }
+
+      const lat = marker.getLatLng().lat;
+      const lng = marker.getLatLng().lng;
+
+      // Ștergem markerii vechi
+      pgMarkers.forEach(m => map.removeLayer(m));
+      redisMarkers.forEach(m => map.removeLayer(m));
+      pgMarkers = [];
+      redisMarkers = [];
+
+      if (radiusCircle) map.removeLayer(radiusCircle);
+      radiusCircle = L.circle([lat, lng], {
+        radius: distance * 1000,
+        color: 'blue',
+        fillOpacity: 0.1
+      }).addTo(map);
+
+      fetch(`http://localhost:8000/api/proximity/?id=${ID}&lat=${lat}&long=${lng}&distance=${distance}`)
+        .then(res => res.json())
+        .then(data => {
+          document.getElementById('responseTime').innerText =
+            `PostgreSQL response: ${data.pg_query_time_ms} ms (${data.no_users} users)
+             | Redis response: ${data.redis_query_time_ms} ms`;
+
+          // --- PG Table ---
+          const pgBody = document.querySelector("#resultsTablePG tbody");
+          pgBody.innerHTML = "";
+          data.users.forEach(user => {
+            const row = `<tr>
+              <td>${user.f_name}</td>
+              <td>${user.l_name}</td>
+              <td>${user.lat}</td>
+              <td>${user.long}</td>
+              <td>${user.distance.toFixed(3)}</td>
+            </tr>`;
+            pgBody.insertAdjacentHTML('beforeend', row);
+            const marker = L.circleMarker([user.lat, user.long], { color: 'blue' }).addTo(map);
+            pgMarkers.push(marker);
+          });
+
+          // --- Redis Table ---
+          const redisBody = document.querySelector("#resultsTableRedis tbody");
+          redisBody.innerHTML = "";
+          data.redis_users?.forEach(user => {
+            const row = `<tr>
+              <td>${user.f_name}</td>
+              <td>${user.l_name}</td>
+              <td>${user.lat}</td>
+              <td>${user.long}</td>
+              <td>${user.distance.toFixed(3)}</td>
+            </tr>`;
+            redisBody.insertAdjacentHTML('beforeend', row);
+            const marker = L.circleMarker([user.lat, user.long], { color: 'green' }).addTo(map);
+            redisMarkers.push(marker);
+          });
+        })
+        .catch(err => alert("Query error: " + err));
+    });
+  </script>
+</body>
+</html>

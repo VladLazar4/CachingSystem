@@ -1,0 +1,6002 @@
+[
+  {
+    "f_name": "Simona",
+    "l_name": "Stan",
+    "lat": 46.698277,
+    "long": 28.060965
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Ionescu",
+    "lat": 44.067892,
+    "long": 20.864023
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Dumitrescu",
+    "lat": 45.642632,
+    "long": 23.055535
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Iancu",
+    "lat": 45.286731,
+    "long": 25.636341
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Tudor",
+    "lat": 46.353963,
+    "long": 20.992876
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Sandu",
+    "lat": 47.780892,
+    "long": 22.899533
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Simion",
+    "lat": 45.084836,
+    "long": 28.033673
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Vasilescu",
+    "lat": 47.466783,
+    "long": 26.558741
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Rusu",
+    "lat": 45.884348,
+    "long": 20.680159
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Paraschiv",
+    "lat": 47.031564,
+    "long": 26.450135
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Popa",
+    "lat": 46.401307,
+    "long": 24.323857
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Vasilescu",
+    "lat": 45.182946,
+    "long": 23.169636
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Iliescu",
+    "lat": 44.325229,
+    "long": 20.803714
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Paraschiv",
+    "lat": 44.402249,
+    "long": 21.012446
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Lungu",
+    "lat": 47.324018,
+    "long": 21.784794
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Chirita",
+    "lat": 44.169293,
+    "long": 24.093407
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Marin",
+    "lat": 45.805168,
+    "long": 27.129536
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Ene",
+    "lat": 47.753659,
+    "long": 26.801961
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Popescu",
+    "lat": 47.926348,
+    "long": 27.844596
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Chirita",
+    "lat": 44.666785,
+    "long": 29.66791
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Preda",
+    "lat": 46.630869,
+    "long": 28.723898
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Matei",
+    "lat": 46.805475,
+    "long": 22.638344
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Sava",
+    "lat": 48.232112,
+    "long": 23.230765
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Enache",
+    "lat": 48.603833,
+    "long": 24.004884
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Petcu",
+    "lat": 47.13379,
+    "long": 20.953892
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Oprea",
+    "lat": 43.981289,
+    "long": 20.57647
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Anghel",
+    "lat": 46.999898,
+    "long": 26.300885
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Tudor",
+    "lat": 47.262383,
+    "long": 20.57441
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Sava",
+    "lat": 46.102789,
+    "long": 28.241715
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Oprea",
+    "lat": 44.806083,
+    "long": 26.323222
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Ionescu",
+    "lat": 46.108813,
+    "long": 29.66641
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Barbu",
+    "lat": 44.885232,
+    "long": 24.43209
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Iancu",
+    "lat": 46.543398,
+    "long": 25.303463
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Voicu",
+    "lat": 45.678064,
+    "long": 29.353637
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Georgescu",
+    "lat": 44.806425,
+    "long": 23.719551
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Georgescu",
+    "lat": 45.918634,
+    "long": 23.073539
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Munteanu",
+    "lat": 46.125754,
+    "long": 27.39533
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Roman",
+    "lat": 48.124976,
+    "long": 25.703088
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Roman",
+    "lat": 46.389495,
+    "long": 27.111983
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Popescu",
+    "lat": 46.539632,
+    "long": 25.813133
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Niculae",
+    "lat": 44.0931,
+    "long": 22.235681
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Dinu",
+    "lat": 43.856588,
+    "long": 24.803305
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Petrescu",
+    "lat": 48.360382,
+    "long": 25.716469
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Voinea",
+    "lat": 48.414538,
+    "long": 25.002673
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Florea",
+    "lat": 48.342493,
+    "long": 28.4545
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Enache",
+    "lat": 46.397823,
+    "long": 22.36529
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Chirita",
+    "lat": 46.288876,
+    "long": 29.59749
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Chirita",
+    "lat": 48.281727,
+    "long": 24.808282
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Coman",
+    "lat": 45.928191,
+    "long": 22.824351
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Iliescu",
+    "lat": 44.815355,
+    "long": 26.496085
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Alexandrescu",
+    "lat": 43.656202,
+    "long": 24.336093
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Filip",
+    "lat": 48.080819,
+    "long": 24.473246
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Enache",
+    "lat": 45.210358,
+    "long": 21.500903
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Marin",
+    "lat": 48.672601,
+    "long": 24.842712
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Badea",
+    "lat": 46.150007,
+    "long": 21.788121
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Roman",
+    "lat": 47.062109,
+    "long": 23.420983
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Alexandrescu",
+    "lat": 47.20595,
+    "long": 25.290277
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Popescu",
+    "lat": 46.286862,
+    "long": 26.256059
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Preda",
+    "lat": 48.185265,
+    "long": 26.016788
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Iliescu",
+    "lat": 45.409171,
+    "long": 21.351529
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Stanciu",
+    "lat": 46.191833,
+    "long": 28.458833
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Anghel",
+    "lat": 45.487777,
+    "long": 23.403116
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Filip",
+    "lat": 48.596408,
+    "long": 26.599031
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Dumitrescu",
+    "lat": 47.247075,
+    "long": 20.748225
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Popescu",
+    "lat": 45.913131,
+    "long": 29.109991
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Ciobanu",
+    "lat": 45.994826,
+    "long": 23.595102
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Croitoru",
+    "lat": 46.57372,
+    "long": 24.835244
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Rusu",
+    "lat": 48.306516,
+    "long": 22.501747
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Coman",
+    "lat": 48.403919,
+    "long": 26.436608
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Preda",
+    "lat": 46.791531,
+    "long": 26.975089
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Petcu",
+    "lat": 46.991377,
+    "long": 25.777953
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Croitoru",
+    "lat": 48.195686,
+    "long": 27.52814
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Sandu",
+    "lat": 44.05945,
+    "long": 22.974093
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Grigorescu",
+    "lat": 43.81734,
+    "long": 28.474504
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Barbu",
+    "lat": 48.463312,
+    "long": 27.275142
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Lungu",
+    "lat": 47.785502,
+    "long": 27.443775
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Coman",
+    "lat": 47.243192,
+    "long": 29.634946
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Popa",
+    "lat": 45.761728,
+    "long": 28.562303
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Sandu",
+    "lat": 48.08178,
+    "long": 29.039703
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Mihai",
+    "lat": 46.524927,
+    "long": 25.376069
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Radu",
+    "lat": 46.931166,
+    "long": 27.857759
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Dumitrescu",
+    "lat": 46.18089,
+    "long": 22.77061
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Vlad",
+    "lat": 44.07158,
+    "long": 28.592665
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Stan",
+    "lat": 45.125472,
+    "long": 22.892104
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Coman",
+    "lat": 46.889236,
+    "long": 22.200524
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Radu",
+    "lat": 48.00138,
+    "long": 24.853927
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Niculae",
+    "lat": 45.590227,
+    "long": 27.745681
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Voicu",
+    "lat": 46.324834,
+    "long": 24.316331
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Ene",
+    "lat": 45.255164,
+    "long": 29.419352
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Constantinescu",
+    "lat": 45.664896,
+    "long": 27.480487
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Paraschiv",
+    "lat": 46.933561,
+    "long": 22.781866
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Enache",
+    "lat": 44.388866,
+    "long": 24.95237
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Vlad",
+    "lat": 45.087439,
+    "long": 23.245154
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Panait",
+    "lat": 48.421516,
+    "long": 23.031237
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Coman",
+    "lat": 45.262484,
+    "long": 21.907932
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Badea",
+    "lat": 43.944061,
+    "long": 20.881895
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Popescu",
+    "lat": 44.554773,
+    "long": 20.893895
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Radu",
+    "lat": 46.916752,
+    "long": 23.326863
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Cojocaru",
+    "lat": 44.211748,
+    "long": 24.847935
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Simion",
+    "lat": 47.911209,
+    "long": 27.818557
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Paraschiv",
+    "lat": 48.265229,
+    "long": 25.136872
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Paraschiv",
+    "lat": 46.662948,
+    "long": 27.286421
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Anghel",
+    "lat": 48.592744,
+    "long": 21.957294
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Munteanu",
+    "lat": 46.405553,
+    "long": 23.828844
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Georgescu",
+    "lat": 45.608386,
+    "long": 28.96716
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Petrescu",
+    "lat": 47.561198,
+    "long": 22.933514
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Stanciu",
+    "lat": 44.930892,
+    "long": 29.151869
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Mihai",
+    "lat": 46.056766,
+    "long": 25.333656
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Popescu",
+    "lat": 47.108479,
+    "long": 21.802473
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Preda",
+    "lat": 46.357065,
+    "long": 23.042245
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Dobre",
+    "lat": 46.024518,
+    "long": 24.964635
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Ciobanu",
+    "lat": 47.190143,
+    "long": 25.30291
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Florea",
+    "lat": 44.241652,
+    "long": 24.374827
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Preda",
+    "lat": 48.366887,
+    "long": 22.85803
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Constantinescu",
+    "lat": 45.349665,
+    "long": 24.841028
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Lungu",
+    "lat": 46.426652,
+    "long": 26.893196
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Iancu",
+    "lat": 46.0642,
+    "long": 23.272462
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Ene",
+    "lat": 47.519076,
+    "long": 28.303256
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Petrescu",
+    "lat": 45.394045,
+    "long": 28.819122
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Anghel",
+    "lat": 48.0796,
+    "long": 29.523527
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Paraschiv",
+    "lat": 47.466515,
+    "long": 28.441648
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Lungu",
+    "lat": 47.96981,
+    "long": 25.683393
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Filip",
+    "lat": 44.576042,
+    "long": 25.819934
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Preda",
+    "lat": 45.424756,
+    "long": 29.644846
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Stanciu",
+    "lat": 46.34928,
+    "long": 21.704086
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Petrescu",
+    "lat": 46.599668,
+    "long": 28.027481
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Filip",
+    "lat": 48.489659,
+    "long": 27.012803
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Voicu",
+    "lat": 45.967124,
+    "long": 24.376591
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Sava",
+    "lat": 45.222737,
+    "long": 25.822973
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Anghel",
+    "lat": 45.31317,
+    "long": 28.483763
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Matei",
+    "lat": 48.105378,
+    "long": 20.791769
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Munteanu",
+    "lat": 44.6144,
+    "long": 23.820817
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Iancu",
+    "lat": 46.934668,
+    "long": 25.172778
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Filip",
+    "lat": 43.980713,
+    "long": 27.58856
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Filip",
+    "lat": 47.016083,
+    "long": 26.63431
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Iancu",
+    "lat": 46.329662,
+    "long": 27.435903
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Matei",
+    "lat": 45.001304,
+    "long": 25.467858
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Sava",
+    "lat": 48.518195,
+    "long": 26.215019
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Badea",
+    "lat": 46.433118,
+    "long": 20.86414
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Dumitrescu",
+    "lat": 45.077564,
+    "long": 28.228534
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Simion",
+    "lat": 47.15417,
+    "long": 25.728415
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Radu",
+    "lat": 47.592051,
+    "long": 22.177744
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Coman",
+    "lat": 46.553269,
+    "long": 26.244196
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Filip",
+    "lat": 48.326334,
+    "long": 22.430008
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Grigorescu",
+    "lat": 47.433013,
+    "long": 21.82287
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Rusu",
+    "lat": 47.799431,
+    "long": 20.805428
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Sandu",
+    "lat": 45.85965,
+    "long": 27.207276
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Stan",
+    "lat": 45.054874,
+    "long": 20.533498
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Cojocaru",
+    "lat": 44.61318,
+    "long": 25.397306
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Dinu",
+    "lat": 44.327366,
+    "long": 22.400029
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Cojocaru",
+    "lat": 46.209506,
+    "long": 27.942375
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Voinea",
+    "lat": 44.394199,
+    "long": 24.884559
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Barbu",
+    "lat": 45.922484,
+    "long": 23.586955
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Cojocaru",
+    "lat": 48.03161,
+    "long": 28.853813
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Radu",
+    "lat": 48.450517,
+    "long": 26.153985
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Panait",
+    "lat": 48.20974,
+    "long": 23.068056
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Petcu",
+    "lat": 44.591099,
+    "long": 25.051343
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Vlad",
+    "lat": 45.446963,
+    "long": 26.808854
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Coman",
+    "lat": 45.56414,
+    "long": 28.079507
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Vasilescu",
+    "lat": 48.356663,
+    "long": 25.126885
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Georgescu",
+    "lat": 46.857117,
+    "long": 26.835227
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Iancu",
+    "lat": 44.999046,
+    "long": 29.369045
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Croitoru",
+    "lat": 46.789348,
+    "long": 23.503152
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Voicu",
+    "lat": 45.604379,
+    "long": 20.459071
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Croitoru",
+    "lat": 45.622325,
+    "long": 23.263767
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Grigorescu",
+    "lat": 48.284143,
+    "long": 22.218632
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Constantinescu",
+    "lat": 48.073934,
+    "long": 25.345212
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Iancu",
+    "lat": 47.052695,
+    "long": 23.298847
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Anghel",
+    "lat": 47.21059,
+    "long": 20.481705
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Vasilescu",
+    "lat": 47.249267,
+    "long": 26.482518
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Filip",
+    "lat": 45.29682,
+    "long": 27.231221
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Enache",
+    "lat": 44.45404,
+    "long": 23.632064
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Sava",
+    "lat": 46.581672,
+    "long": 25.409547
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Dinu",
+    "lat": 48.500959,
+    "long": 28.81445
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Petcu",
+    "lat": 48.062663,
+    "long": 28.593049
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Lungu",
+    "lat": 43.761356,
+    "long": 29.158875
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Grigorescu",
+    "lat": 46.01114,
+    "long": 21.035557
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Dobre",
+    "lat": 47.728747,
+    "long": 29.52026
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Dinu",
+    "lat": 47.278552,
+    "long": 22.8915
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Anghel",
+    "lat": 45.657009,
+    "long": 29.682019
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Vlad",
+    "lat": 47.061066,
+    "long": 24.688254
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Petrescu",
+    "lat": 46.709822,
+    "long": 27.475549
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Panait",
+    "lat": 47.513923,
+    "long": 26.125799
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Munteanu",
+    "lat": 44.938157,
+    "long": 23.199969
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Iancu",
+    "lat": 48.029109,
+    "long": 20.510893
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Marin",
+    "lat": 44.196747,
+    "long": 24.125233
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Cojocaru",
+    "lat": 44.599314,
+    "long": 21.248756
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Filip",
+    "lat": 44.589655,
+    "long": 22.955732
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Niculescu",
+    "lat": 46.87361,
+    "long": 27.049789
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Iancu",
+    "lat": 48.257756,
+    "long": 26.400603
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Cojocaru",
+    "lat": 47.967224,
+    "long": 28.182707
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Niculae",
+    "lat": 45.470308,
+    "long": 27.011427
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Stan",
+    "lat": 46.303923,
+    "long": 25.95792
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Barbu",
+    "lat": 47.578056,
+    "long": 28.303104
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Georgescu",
+    "lat": 44.927822,
+    "long": 27.716501
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Roman",
+    "lat": 45.438714,
+    "long": 21.296139
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Roman",
+    "lat": 47.906356,
+    "long": 20.591051
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Sava",
+    "lat": 48.584852,
+    "long": 25.777927
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Badea",
+    "lat": 48.115324,
+    "long": 28.445404
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Matei",
+    "lat": 44.159175,
+    "long": 25.530957
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Ene",
+    "lat": 48.184579,
+    "long": 21.643249
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Rusu",
+    "lat": 47.356865,
+    "long": 21.611289
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Niculescu",
+    "lat": 46.901966,
+    "long": 29.213772
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Radu",
+    "lat": 48.157033,
+    "long": 29.201529
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Florea",
+    "lat": 46.994047,
+    "long": 27.362711
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Constantinescu",
+    "lat": 44.179906,
+    "long": 27.375186
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Mihai",
+    "lat": 44.558706,
+    "long": 28.957081
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Voicu",
+    "lat": 44.118043,
+    "long": 23.836632
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Niculae",
+    "lat": 47.95047,
+    "long": 28.472051
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Tudor",
+    "lat": 48.473063,
+    "long": 24.138062
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Alexandrescu",
+    "lat": 47.839614,
+    "long": 21.776038
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Iancu",
+    "lat": 45.709029,
+    "long": 26.450709
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Voicu",
+    "lat": 47.034559,
+    "long": 22.068049
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Vasilescu",
+    "lat": 45.039353,
+    "long": 29.379881
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Sandu",
+    "lat": 48.382787,
+    "long": 27.758437
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Roman",
+    "lat": 46.816624,
+    "long": 29.336416
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Sava",
+    "lat": 43.788469,
+    "long": 28.579011
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Sava",
+    "lat": 43.681358,
+    "long": 25.380966
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Rusu",
+    "lat": 45.2826,
+    "long": 29.674743
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Ciobanu",
+    "lat": 47.811615,
+    "long": 20.878901
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Popa",
+    "lat": 45.117169,
+    "long": 27.92523
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Croitoru",
+    "lat": 45.684796,
+    "long": 21.3243
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Ene",
+    "lat": 46.866154,
+    "long": 23.337582
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Niculescu",
+    "lat": 44.83946,
+    "long": 24.672637
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Alexandrescu",
+    "lat": 47.052722,
+    "long": 26.760547
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Vasilescu",
+    "lat": 47.382185,
+    "long": 27.368543
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Stan",
+    "lat": 45.311324,
+    "long": 27.390817
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Rusu",
+    "lat": 46.923074,
+    "long": 20.66789
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Mihai",
+    "lat": 45.768849,
+    "long": 28.847794
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Stanciu",
+    "lat": 44.674863,
+    "long": 27.316413
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Ene",
+    "lat": 46.211103,
+    "long": 22.814965
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Radu",
+    "lat": 46.316831,
+    "long": 23.899366
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Iancu",
+    "lat": 46.222025,
+    "long": 27.456715
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Filip",
+    "lat": 47.228047,
+    "long": 22.44367
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Enache",
+    "lat": 43.844737,
+    "long": 23.976901
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Voinea",
+    "lat": 47.816435,
+    "long": 28.832082
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Munteanu",
+    "lat": 45.674714,
+    "long": 21.786561
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Niculescu",
+    "lat": 46.177474,
+    "long": 23.752429
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Niculescu",
+    "lat": 46.849517,
+    "long": 21.980983
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Niculescu",
+    "lat": 46.863394,
+    "long": 22.226563
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Panait",
+    "lat": 48.210563,
+    "long": 21.07517
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Voinea",
+    "lat": 43.661142,
+    "long": 20.882295
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Sandu",
+    "lat": 45.819389,
+    "long": 27.179671
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Niculae",
+    "lat": 44.157736,
+    "long": 22.13355
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Florea",
+    "lat": 44.409704,
+    "long": 28.894661
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Chirita",
+    "lat": 44.943569,
+    "long": 29.114428
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Alexandrescu",
+    "lat": 45.507915,
+    "long": 25.870891
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Chirita",
+    "lat": 47.335964,
+    "long": 25.626892
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Petrescu",
+    "lat": 45.457929,
+    "long": 23.994025
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Constantinescu",
+    "lat": 44.063559,
+    "long": 27.287052
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Stanciu",
+    "lat": 47.710612,
+    "long": 22.338587
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Panait",
+    "lat": 43.977852,
+    "long": 20.993667
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Radu",
+    "lat": 48.536872,
+    "long": 21.520609
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Chirita",
+    "lat": 46.671281,
+    "long": 22.390307
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Anghel",
+    "lat": 47.333832,
+    "long": 29.213925
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Voicu",
+    "lat": 44.341821,
+    "long": 21.646994
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Lungu",
+    "lat": 43.686432,
+    "long": 20.735494
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Preda",
+    "lat": 48.215487,
+    "long": 20.565081
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Sandu",
+    "lat": 44.541611,
+    "long": 23.631906
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Anghel",
+    "lat": 43.809456,
+    "long": 25.337554
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Niculae",
+    "lat": 45.836538,
+    "long": 29.367454
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Popescu",
+    "lat": 44.679477,
+    "long": 24.631024
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Croitoru",
+    "lat": 47.091745,
+    "long": 25.810151
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Ciobanu",
+    "lat": 45.575685,
+    "long": 27.767587
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Alexandrescu",
+    "lat": 47.438703,
+    "long": 21.587845
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Tudor",
+    "lat": 44.257082,
+    "long": 28.309763
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Florea",
+    "lat": 45.048656,
+    "long": 25.054855
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Ciobanu",
+    "lat": 45.496211,
+    "long": 21.799961
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Dumitrescu",
+    "lat": 44.938814,
+    "long": 27.422323
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Iliescu",
+    "lat": 46.396459,
+    "long": 29.169007
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Vasilescu",
+    "lat": 44.567354,
+    "long": 26.730752
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Tudor",
+    "lat": 43.617142,
+    "long": 21.795396
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Simion",
+    "lat": 47.321944,
+    "long": 25.715208
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Ionescu",
+    "lat": 47.62651,
+    "long": 25.496381
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Marin",
+    "lat": 44.627655,
+    "long": 22.615088
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Voicu",
+    "lat": 44.693252,
+    "long": 27.63018
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Rusu",
+    "lat": 48.269341,
+    "long": 22.085777
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Matei",
+    "lat": 45.362596,
+    "long": 21.957943
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Ene",
+    "lat": 48.257248,
+    "long": 25.780436
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Iliescu",
+    "lat": 45.8602,
+    "long": 25.078831
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Constantinescu",
+    "lat": 44.872397,
+    "long": 24.317756
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Voinea",
+    "lat": 48.656035,
+    "long": 25.754197
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Enache",
+    "lat": 44.259936,
+    "long": 21.210638
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Roman",
+    "lat": 47.518937,
+    "long": 27.05865
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Oprea",
+    "lat": 47.376938,
+    "long": 24.665752
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Voicu",
+    "lat": 47.531855,
+    "long": 24.400414
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Iancu",
+    "lat": 43.841277,
+    "long": 22.602096
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Filip",
+    "lat": 45.567557,
+    "long": 24.671401
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Iliescu",
+    "lat": 45.989413,
+    "long": 25.401649
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Iancu",
+    "lat": 46.444445,
+    "long": 21.955951
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Radu",
+    "lat": 47.102146,
+    "long": 25.90049
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Simion",
+    "lat": 45.838912,
+    "long": 20.782635
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Popa",
+    "lat": 45.726525,
+    "long": 28.151947
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Preda",
+    "lat": 47.861199,
+    "long": 23.463038
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Enache",
+    "lat": 43.95049,
+    "long": 23.963268
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Marin",
+    "lat": 46.413452,
+    "long": 24.086468
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Sava",
+    "lat": 46.944707,
+    "long": 20.813533
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Roman",
+    "lat": 48.091393,
+    "long": 29.452423
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Georgescu",
+    "lat": 43.855638,
+    "long": 26.280323
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Simion",
+    "lat": 47.472847,
+    "long": 26.556871
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Anghel",
+    "lat": 44.00577,
+    "long": 21.818616
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Voicu",
+    "lat": 45.040752,
+    "long": 21.102894
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Ionescu",
+    "lat": 45.869743,
+    "long": 28.337127
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Coman",
+    "lat": 48.026252,
+    "long": 24.363065
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Niculae",
+    "lat": 46.441249,
+    "long": 23.670001
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Iancu",
+    "lat": 47.410062,
+    "long": 26.46761
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Marin",
+    "lat": 48.144116,
+    "long": 21.583243
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Chirita",
+    "lat": 43.866268,
+    "long": 28.577488
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Chirita",
+    "lat": 45.79255,
+    "long": 25.910206
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Stanciu",
+    "lat": 47.983821,
+    "long": 28.855971
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Niculescu",
+    "lat": 44.604784,
+    "long": 23.853237
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Niculae",
+    "lat": 47.076754,
+    "long": 25.638423
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Dinu",
+    "lat": 48.003533,
+    "long": 23.854517
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Sava",
+    "lat": 46.004433,
+    "long": 22.082717
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Simion",
+    "lat": 48.398798,
+    "long": 29.448928
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Ionescu",
+    "lat": 46.121506,
+    "long": 21.725391
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Mihai",
+    "lat": 45.39258,
+    "long": 25.670054
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Vasilescu",
+    "lat": 45.439151,
+    "long": 26.90715
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Coman",
+    "lat": 44.457188,
+    "long": 25.462453
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Vasilescu",
+    "lat": 46.004842,
+    "long": 22.150962
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Panait",
+    "lat": 48.010304,
+    "long": 27.013638
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Constantinescu",
+    "lat": 46.906603,
+    "long": 27.323415
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Constantinescu",
+    "lat": 46.893457,
+    "long": 24.801199
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Popa",
+    "lat": 46.039207,
+    "long": 22.211629
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Stan",
+    "lat": 44.817701,
+    "long": 23.482456
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Lungu",
+    "lat": 46.247367,
+    "long": 27.890166
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Roman",
+    "lat": 43.776883,
+    "long": 26.313036
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Enache",
+    "lat": 48.546748,
+    "long": 21.718114
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Vasilescu",
+    "lat": 44.786954,
+    "long": 27.912993
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Stanciu",
+    "lat": 48.174715,
+    "long": 26.531714
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Simion",
+    "lat": 46.694664,
+    "long": 25.421783
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Dinu",
+    "lat": 48.114491,
+    "long": 25.455121
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Ene",
+    "lat": 46.955855,
+    "long": 21.544146
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Dobre",
+    "lat": 46.54909,
+    "long": 21.607941
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Sandu",
+    "lat": 44.348393,
+    "long": 21.83393
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Filip",
+    "lat": 44.681955,
+    "long": 24.149499
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Simion",
+    "lat": 45.821281,
+    "long": 28.181716
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Niculae",
+    "lat": 44.591675,
+    "long": 26.528479
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Oprea",
+    "lat": 47.188139,
+    "long": 27.578863
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Paraschiv",
+    "lat": 46.040955,
+    "long": 24.834531
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Dinu",
+    "lat": 43.713819,
+    "long": 20.452593
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Ene",
+    "lat": 47.278386,
+    "long": 29.330628
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Ionescu",
+    "lat": 46.968066,
+    "long": 29.102318
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Niculescu",
+    "lat": 46.027387,
+    "long": 27.193045
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Stanciu",
+    "lat": 47.842148,
+    "long": 25.019445
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Dumitrescu",
+    "lat": 44.508255,
+    "long": 24.824628
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Iliescu",
+    "lat": 48.302884,
+    "long": 23.843591
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Ene",
+    "lat": 47.84894,
+    "long": 28.559668
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Stan",
+    "lat": 47.288073,
+    "long": 28.035645
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Niculae",
+    "lat": 45.925489,
+    "long": 23.052327
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Niculae",
+    "lat": 45.072001,
+    "long": 27.969197
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Voicu",
+    "lat": 46.545713,
+    "long": 24.290104
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Preda",
+    "lat": 48.512005,
+    "long": 28.009485
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Ene",
+    "lat": 46.310484,
+    "long": 23.220733
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Ene",
+    "lat": 47.303743,
+    "long": 25.808574
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Barbu",
+    "lat": 47.910094,
+    "long": 23.10187
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Croitoru",
+    "lat": 45.441228,
+    "long": 24.239183
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Grigorescu",
+    "lat": 45.211131,
+    "long": 24.084771
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Popa",
+    "lat": 46.529886,
+    "long": 20.833763
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Voinea",
+    "lat": 47.441966,
+    "long": 27.907582
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Petrescu",
+    "lat": 47.530217,
+    "long": 23.716262
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Lungu",
+    "lat": 46.165024,
+    "long": 20.676301
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Rusu",
+    "lat": 47.917509,
+    "long": 20.7858
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Stanciu",
+    "lat": 44.465884,
+    "long": 26.96742
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Popescu",
+    "lat": 47.661588,
+    "long": 21.292453
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Lungu",
+    "lat": 43.83418,
+    "long": 27.0254
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Voicu",
+    "lat": 47.300189,
+    "long": 27.415964
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Stan",
+    "lat": 45.855568,
+    "long": 20.433429
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Iliescu",
+    "lat": 46.271844,
+    "long": 24.790317
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Radu",
+    "lat": 48.271552,
+    "long": 22.299341
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Voinea",
+    "lat": 48.215511,
+    "long": 22.890221
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Lungu",
+    "lat": 47.872097,
+    "long": 22.273949
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Roman",
+    "lat": 48.175962,
+    "long": 22.358742
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Dobre",
+    "lat": 46.814755,
+    "long": 21.06253
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Florea",
+    "lat": 44.886471,
+    "long": 23.171192
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Roman",
+    "lat": 47.237958,
+    "long": 29.524411
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Filip",
+    "lat": 46.597753,
+    "long": 25.192329
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Tudor",
+    "lat": 46.038026,
+    "long": 23.730474
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Dumitrescu",
+    "lat": 46.297093,
+    "long": 24.28255
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Lungu",
+    "lat": 48.049164,
+    "long": 23.082187
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Lungu",
+    "lat": 46.317707,
+    "long": 24.894589
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Radu",
+    "lat": 47.903623,
+    "long": 28.174345
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Badea",
+    "lat": 45.093241,
+    "long": 21.740658
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Dinu",
+    "lat": 46.72441,
+    "long": 20.824282
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Florea",
+    "lat": 45.545473,
+    "long": 23.666546
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Matei",
+    "lat": 47.332192,
+    "long": 22.429019
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Filip",
+    "lat": 43.646121,
+    "long": 21.355558
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Matei",
+    "lat": 45.589364,
+    "long": 21.130344
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Dumitrescu",
+    "lat": 44.551384,
+    "long": 25.621492
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Iancu",
+    "lat": 47.268613,
+    "long": 26.46953
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Niculae",
+    "lat": 46.592096,
+    "long": 29.160196
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Niculescu",
+    "lat": 46.715224,
+    "long": 26.459766
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Roman",
+    "lat": 44.647122,
+    "long": 25.242809
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Niculescu",
+    "lat": 48.111429,
+    "long": 25.907506
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Sandu",
+    "lat": 47.490252,
+    "long": 28.871288
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Vasilescu",
+    "lat": 48.013113,
+    "long": 23.383467
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Petrescu",
+    "lat": 45.312506,
+    "long": 22.006545
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Constantinescu",
+    "lat": 46.166827,
+    "long": 21.243085
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Petrescu",
+    "lat": 44.043788,
+    "long": 23.812961
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Petrescu",
+    "lat": 45.926771,
+    "long": 27.643263
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Munteanu",
+    "lat": 46.17907,
+    "long": 24.753288
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Iliescu",
+    "lat": 47.281836,
+    "long": 22.728471
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Niculescu",
+    "lat": 45.595448,
+    "long": 26.814999
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Mihai",
+    "lat": 46.159878,
+    "long": 22.547102
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Dumitrescu",
+    "lat": 44.838863,
+    "long": 24.877565
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Popa",
+    "lat": 48.610405,
+    "long": 22.490215
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Oprea",
+    "lat": 44.942186,
+    "long": 24.800476
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Iliescu",
+    "lat": 44.531135,
+    "long": 29.286127
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Enache",
+    "lat": 47.602921,
+    "long": 27.278565
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Grigorescu",
+    "lat": 46.282015,
+    "long": 21.550603
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Rusu",
+    "lat": 47.901326,
+    "long": 29.221704
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Croitoru",
+    "lat": 47.696555,
+    "long": 24.213169
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Dinu",
+    "lat": 47.346751,
+    "long": 28.800255
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Niculescu",
+    "lat": 46.335656,
+    "long": 21.183448
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Petrescu",
+    "lat": 46.4423,
+    "long": 26.902679
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Marin",
+    "lat": 44.425826,
+    "long": 20.59566
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Dumitrescu",
+    "lat": 45.595568,
+    "long": 24.969195
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Petrescu",
+    "lat": 46.244116,
+    "long": 29.359453
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Grigorescu",
+    "lat": 47.365046,
+    "long": 29.426427
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Oprea",
+    "lat": 47.583569,
+    "long": 25.326484
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Niculescu",
+    "lat": 43.803736,
+    "long": 27.103036
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Roman",
+    "lat": 48.304559,
+    "long": 27.962988
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Sandu",
+    "lat": 47.921028,
+    "long": 27.397247
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Croitoru",
+    "lat": 45.043585,
+    "long": 25.773103
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Dobre",
+    "lat": 46.98145,
+    "long": 24.735812
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Barbu",
+    "lat": 45.228636,
+    "long": 26.245559
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Ciobanu",
+    "lat": 45.51987,
+    "long": 21.870774
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Voinea",
+    "lat": 47.03358,
+    "long": 23.223384
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Vasilescu",
+    "lat": 45.563063,
+    "long": 25.985621
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Ciobanu",
+    "lat": 48.337717,
+    "long": 22.421977
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Panait",
+    "lat": 47.771359,
+    "long": 29.470011
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Vlad",
+    "lat": 47.983845,
+    "long": 20.700321
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Munteanu",
+    "lat": 44.256727,
+    "long": 23.528459
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Dinu",
+    "lat": 43.93294,
+    "long": 27.358269
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Roman",
+    "lat": 45.990254,
+    "long": 27.29316
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Ionescu",
+    "lat": 45.128933,
+    "long": 21.484171
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Coman",
+    "lat": 44.378051,
+    "long": 21.161831
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Enache",
+    "lat": 47.327032,
+    "long": 24.797063
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Dobre",
+    "lat": 48.395819,
+    "long": 29.263316
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Ionescu",
+    "lat": 47.270872,
+    "long": 28.271339
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Rusu",
+    "lat": 47.903226,
+    "long": 24.778593
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Rusu",
+    "lat": 48.411608,
+    "long": 23.103996
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Cojocaru",
+    "lat": 44.578923,
+    "long": 21.699393
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Ionescu",
+    "lat": 48.231213,
+    "long": 27.496028
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Dinu",
+    "lat": 48.151767,
+    "long": 24.556204
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Vasilescu",
+    "lat": 44.514226,
+    "long": 21.85628
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Chirita",
+    "lat": 48.595996,
+    "long": 29.260434
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Petcu",
+    "lat": 48.637021,
+    "long": 20.363809
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Iancu",
+    "lat": 45.001769,
+    "long": 21.366655
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Lungu",
+    "lat": 44.091338,
+    "long": 23.639326
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Sava",
+    "lat": 47.425598,
+    "long": 21.447505
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Anghel",
+    "lat": 44.920813,
+    "long": 23.75919
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Popa",
+    "lat": 43.811189,
+    "long": 22.390046
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Ionescu",
+    "lat": 47.659993,
+    "long": 27.319367
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Dinu",
+    "lat": 45.705764,
+    "long": 20.6259
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Simion",
+    "lat": 47.023307,
+    "long": 26.168384
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Simion",
+    "lat": 46.490229,
+    "long": 24.696406
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Voinea",
+    "lat": 48.114139,
+    "long": 25.927473
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Marin",
+    "lat": 44.678829,
+    "long": 25.948468
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Radu",
+    "lat": 46.473964,
+    "long": 25.516745
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Ene",
+    "lat": 43.826765,
+    "long": 29.437797
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Marin",
+    "lat": 43.612615,
+    "long": 24.124976
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Voinea",
+    "lat": 46.630552,
+    "long": 24.467064
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Matei",
+    "lat": 43.608397,
+    "long": 25.795193
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Oprea",
+    "lat": 44.750141,
+    "long": 21.017557
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Voicu",
+    "lat": 48.395086,
+    "long": 27.229279
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Marin",
+    "lat": 45.475988,
+    "long": 21.184071
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Vlad",
+    "lat": 48.413896,
+    "long": 27.757646
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Panait",
+    "lat": 48.319044,
+    "long": 26.434374
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Rusu",
+    "lat": 47.935637,
+    "long": 28.344678
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Petrescu",
+    "lat": 43.631473,
+    "long": 27.357712
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Tudor",
+    "lat": 46.356672,
+    "long": 21.925653
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Dobre",
+    "lat": 47.671477,
+    "long": 26.740251
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Tudor",
+    "lat": 46.777264,
+    "long": 20.587266
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Vlad",
+    "lat": 46.999311,
+    "long": 24.393607
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Iancu",
+    "lat": 47.746171,
+    "long": 28.960081
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Voinea",
+    "lat": 47.365028,
+    "long": 20.359196
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Iliescu",
+    "lat": 46.616003,
+    "long": 29.321153
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Sava",
+    "lat": 47.8557,
+    "long": 22.08877
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Lungu",
+    "lat": 44.148023,
+    "long": 27.617472
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Chirita",
+    "lat": 46.056773,
+    "long": 28.749494
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Sava",
+    "lat": 46.320756,
+    "long": 29.340321
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Coman",
+    "lat": 48.184949,
+    "long": 26.632551
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Petrescu",
+    "lat": 43.797771,
+    "long": 24.060712
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Lungu",
+    "lat": 45.085381,
+    "long": 27.754371
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Coman",
+    "lat": 46.778223,
+    "long": 21.533495
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Niculescu",
+    "lat": 45.682858,
+    "long": 23.310708
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Matei",
+    "lat": 45.958364,
+    "long": 27.745676
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Filip",
+    "lat": 48.050079,
+    "long": 23.145452
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Munteanu",
+    "lat": 46.429181,
+    "long": 21.500521
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Matei",
+    "lat": 47.381242,
+    "long": 20.630375
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Panait",
+    "lat": 45.003344,
+    "long": 23.5108
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Vlad",
+    "lat": 45.265083,
+    "long": 24.108871
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Ene",
+    "lat": 44.377989,
+    "long": 29.133503
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Chirita",
+    "lat": 48.253703,
+    "long": 22.220561
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Paraschiv",
+    "lat": 46.25173,
+    "long": 28.903903
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Anghel",
+    "lat": 48.384379,
+    "long": 23.98302
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Simion",
+    "lat": 46.282323,
+    "long": 29.264684
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Lungu",
+    "lat": 46.70305,
+    "long": 29.621271
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Croitoru",
+    "lat": 44.301113,
+    "long": 24.064412
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Sava",
+    "lat": 47.134154,
+    "long": 27.726286
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Filip",
+    "lat": 43.817303,
+    "long": 26.12367
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Ciobanu",
+    "lat": 45.080342,
+    "long": 24.400167
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Voinea",
+    "lat": 45.790025,
+    "long": 24.865793
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Preda",
+    "lat": 45.852878,
+    "long": 22.992056
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Niculescu",
+    "lat": 47.743972,
+    "long": 23.362142
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Voicu",
+    "lat": 45.663812,
+    "long": 26.239272
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Florea",
+    "lat": 46.12422,
+    "long": 24.833515
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Simion",
+    "lat": 46.752816,
+    "long": 28.895664
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Marin",
+    "lat": 47.488555,
+    "long": 22.396078
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Enache",
+    "lat": 48.650682,
+    "long": 20.629908
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Iancu",
+    "lat": 45.652052,
+    "long": 24.803798
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Voinea",
+    "lat": 46.211781,
+    "long": 21.767399
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Marin",
+    "lat": 47.409818,
+    "long": 24.233834
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Munteanu",
+    "lat": 44.726037,
+    "long": 23.352764
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Radu",
+    "lat": 45.287516,
+    "long": 27.012488
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Anghel",
+    "lat": 44.505003,
+    "long": 29.175809
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Barbu",
+    "lat": 46.603552,
+    "long": 29.323845
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Niculae",
+    "lat": 44.932454,
+    "long": 26.372277
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Iliescu",
+    "lat": 45.930342,
+    "long": 25.826399
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Ciobanu",
+    "lat": 46.047845,
+    "long": 20.980786
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Oprea",
+    "lat": 44.087438,
+    "long": 23.245573
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Coman",
+    "lat": 45.275635,
+    "long": 24.034293
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Popescu",
+    "lat": 48.521766,
+    "long": 26.64769
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Iancu",
+    "lat": 46.13261,
+    "long": 22.792126
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Popescu",
+    "lat": 45.467845,
+    "long": 28.348476
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Lungu",
+    "lat": 48.293989,
+    "long": 23.426508
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Croitoru",
+    "lat": 44.202009,
+    "long": 28.262332
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Dumitrescu",
+    "lat": 44.855776,
+    "long": 28.698726
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Vasilescu",
+    "lat": 44.447593,
+    "long": 22.939648
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Chirita",
+    "lat": 46.600992,
+    "long": 27.693003
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Popescu",
+    "lat": 46.878704,
+    "long": 25.00328
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Voinea",
+    "lat": 47.128397,
+    "long": 24.312721
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Oprea",
+    "lat": 45.081584,
+    "long": 26.844265
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Stan",
+    "lat": 47.325034,
+    "long": 28.914797
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Barbu",
+    "lat": 46.755202,
+    "long": 22.293132
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Ionescu",
+    "lat": 48.091058,
+    "long": 28.915438
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Matei",
+    "lat": 44.49195,
+    "long": 21.369414
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Dinu",
+    "lat": 44.349674,
+    "long": 28.479826
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Barbu",
+    "lat": 46.228281,
+    "long": 21.72959
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Radu",
+    "lat": 47.583358,
+    "long": 23.153631
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Georgescu",
+    "lat": 45.631111,
+    "long": 27.865297
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Florea",
+    "lat": 48.082162,
+    "long": 26.78997
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Georgescu",
+    "lat": 44.772249,
+    "long": 23.110888
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Ene",
+    "lat": 48.33697,
+    "long": 25.407582
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Georgescu",
+    "lat": 47.903752,
+    "long": 28.501386
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Panait",
+    "lat": 44.32226,
+    "long": 21.308852
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Rusu",
+    "lat": 45.709029,
+    "long": 21.492679
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Grigorescu",
+    "lat": 47.792771,
+    "long": 26.36991
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Enache",
+    "lat": 47.78472,
+    "long": 27.082446
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Badea",
+    "lat": 47.313144,
+    "long": 25.883242
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Stan",
+    "lat": 45.024886,
+    "long": 20.497307
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Voinea",
+    "lat": 44.419328,
+    "long": 29.473725
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Rusu",
+    "lat": 45.436837,
+    "long": 24.332937
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Munteanu",
+    "lat": 44.288431,
+    "long": 22.331577
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Filip",
+    "lat": 45.633426,
+    "long": 25.179848
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Croitoru",
+    "lat": 46.117373,
+    "long": 22.594548
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Matei",
+    "lat": 47.421706,
+    "long": 28.594195
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Voinea",
+    "lat": 44.866626,
+    "long": 21.694035
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Lungu",
+    "lat": 45.395153,
+    "long": 26.738976
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Rusu",
+    "lat": 45.876854,
+    "long": 21.920414
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Lungu",
+    "lat": 46.344599,
+    "long": 23.381546
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Niculae",
+    "lat": 46.098334,
+    "long": 20.539213
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Iancu",
+    "lat": 48.003342,
+    "long": 22.066263
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Constantinescu",
+    "lat": 47.7213,
+    "long": 29.651075
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Alexandrescu",
+    "lat": 48.192455,
+    "long": 23.962213
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Marin",
+    "lat": 43.994071,
+    "long": 28.563323
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Rusu",
+    "lat": 44.830756,
+    "long": 26.481931
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Vasilescu",
+    "lat": 45.452766,
+    "long": 24.006064
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Sandu",
+    "lat": 46.572178,
+    "long": 22.890525
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Stan",
+    "lat": 44.405649,
+    "long": 22.730083
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Sava",
+    "lat": 45.869001,
+    "long": 23.051058
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Rusu",
+    "lat": 47.447058,
+    "long": 24.235277
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Voicu",
+    "lat": 48.545889,
+    "long": 26.089913
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Stan",
+    "lat": 43.984764,
+    "long": 23.083212
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Stan",
+    "lat": 45.975747,
+    "long": 24.323212
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Chirita",
+    "lat": 48.409877,
+    "long": 25.995281
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Chirita",
+    "lat": 48.422181,
+    "long": 20.779912
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Oprea",
+    "lat": 46.847938,
+    "long": 24.034073
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Vasilescu",
+    "lat": 46.35389,
+    "long": 23.999584
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Simion",
+    "lat": 47.122575,
+    "long": 26.46325
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Alexandrescu",
+    "lat": 46.896794,
+    "long": 20.331229
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Georgescu",
+    "lat": 47.92805,
+    "long": 20.306017
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Ciobanu",
+    "lat": 48.497722,
+    "long": 21.468315
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Dinu",
+    "lat": 46.897952,
+    "long": 23.334759
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Lungu",
+    "lat": 44.374396,
+    "long": 27.429177
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Petrescu",
+    "lat": 43.854423,
+    "long": 22.216422
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Petrescu",
+    "lat": 43.957891,
+    "long": 26.822897
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Oprea",
+    "lat": 47.516963,
+    "long": 22.717881
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Rusu",
+    "lat": 46.715541,
+    "long": 25.631112
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Rusu",
+    "lat": 45.556863,
+    "long": 22.5905
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Voinea",
+    "lat": 48.508603,
+    "long": 24.201246
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Mihai",
+    "lat": 43.957948,
+    "long": 25.140391
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Dinu",
+    "lat": 48.51983,
+    "long": 29.638473
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Chirita",
+    "lat": 46.462043,
+    "long": 27.070578
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Georgescu",
+    "lat": 46.19532,
+    "long": 24.536314
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Grigorescu",
+    "lat": 45.03756,
+    "long": 22.934964
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Niculae",
+    "lat": 46.09852,
+    "long": 23.736234
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Sandu",
+    "lat": 46.035386,
+    "long": 23.195546
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Vasilescu",
+    "lat": 44.461289,
+    "long": 27.05088
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Petcu",
+    "lat": 48.275799,
+    "long": 27.300869
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Niculae",
+    "lat": 46.123604,
+    "long": 28.187514
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Filip",
+    "lat": 46.711224,
+    "long": 29.505894
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Voicu",
+    "lat": 44.452538,
+    "long": 29.383385
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Niculescu",
+    "lat": 45.941505,
+    "long": 27.251481
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Dobre",
+    "lat": 46.521611,
+    "long": 23.958642
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Dinu",
+    "lat": 47.435521,
+    "long": 24.800582
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Preda",
+    "lat": 46.22761,
+    "long": 21.986281
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Filip",
+    "lat": 47.743548,
+    "long": 22.744472
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Popa",
+    "lat": 48.264938,
+    "long": 29.24589
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Stanciu",
+    "lat": 46.951992,
+    "long": 24.365958
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Paraschiv",
+    "lat": 48.298576,
+    "long": 26.519101
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Croitoru",
+    "lat": 46.501916,
+    "long": 29.196398
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Preda",
+    "lat": 48.087725,
+    "long": 28.345498
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Anghel",
+    "lat": 45.28738,
+    "long": 26.959265
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Anghel",
+    "lat": 47.177359,
+    "long": 29.609323
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Chirita",
+    "lat": 45.890536,
+    "long": 23.317318
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Marin",
+    "lat": 46.056775,
+    "long": 26.532404
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Munteanu",
+    "lat": 45.802009,
+    "long": 28.106931
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Dinu",
+    "lat": 45.429623,
+    "long": 23.013495
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Enache",
+    "lat": 47.608781,
+    "long": 26.217762
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Voicu",
+    "lat": 45.59092,
+    "long": 25.908574
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Filip",
+    "lat": 47.105829,
+    "long": 22.681472
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Grigorescu",
+    "lat": 45.763454,
+    "long": 21.59479
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Simion",
+    "lat": 46.707916,
+    "long": 27.529284
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Enache",
+    "lat": 45.532853,
+    "long": 28.628894
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Sava",
+    "lat": 43.798041,
+    "long": 25.560331
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Voicu",
+    "lat": 44.654569,
+    "long": 26.351923
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Florea",
+    "lat": 46.859409,
+    "long": 23.258959
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Simion",
+    "lat": 47.132409,
+    "long": 28.872596
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Florea",
+    "lat": 45.753248,
+    "long": 20.499254
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Vasilescu",
+    "lat": 43.763405,
+    "long": 22.896318
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Iancu",
+    "lat": 45.398946,
+    "long": 23.477803
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Chirita",
+    "lat": 46.48972,
+    "long": 21.134584
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Sandu",
+    "lat": 47.20253,
+    "long": 25.80696
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Anghel",
+    "lat": 47.708711,
+    "long": 27.349543
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Sandu",
+    "lat": 47.052195,
+    "long": 29.079378
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Sava",
+    "lat": 46.08381,
+    "long": 28.62763
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Dinu",
+    "lat": 48.692314,
+    "long": 25.987129
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Petrescu",
+    "lat": 47.916718,
+    "long": 25.403871
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Constantinescu",
+    "lat": 48.482348,
+    "long": 25.852294
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Simion",
+    "lat": 46.942387,
+    "long": 24.382589
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Florea",
+    "lat": 46.84622,
+    "long": 25.971672
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Sava",
+    "lat": 44.847091,
+    "long": 24.992937
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Lungu",
+    "lat": 47.168407,
+    "long": 20.550625
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Mihai",
+    "lat": 46.246681,
+    "long": 24.10947
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Filip",
+    "lat": 45.803311,
+    "long": 27.233057
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Preda",
+    "lat": 46.96875,
+    "long": 24.05884
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Preda",
+    "lat": 43.825159,
+    "long": 25.919222
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Niculescu",
+    "lat": 46.369289,
+    "long": 26.523908
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Paraschiv",
+    "lat": 44.812688,
+    "long": 21.116811
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Sava",
+    "lat": 47.084211,
+    "long": 28.531754
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Petcu",
+    "lat": 46.680005,
+    "long": 29.15187
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Mihai",
+    "lat": 47.264214,
+    "long": 24.967093
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Badea",
+    "lat": 46.001591,
+    "long": 25.382018
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Marin",
+    "lat": 46.095089,
+    "long": 21.572177
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Lungu",
+    "lat": 46.12255,
+    "long": 21.227138
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Florea",
+    "lat": 45.633939,
+    "long": 29.589584
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Mihai",
+    "lat": 44.279956,
+    "long": 23.629337
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Panait",
+    "lat": 44.393527,
+    "long": 25.400855
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Niculescu",
+    "lat": 46.160708,
+    "long": 21.937974
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Iancu",
+    "lat": 43.866261,
+    "long": 21.183405
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Munteanu",
+    "lat": 47.852922,
+    "long": 24.33974
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Coman",
+    "lat": 45.530692,
+    "long": 24.019851
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Simion",
+    "lat": 46.596558,
+    "long": 23.543747
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Popescu",
+    "lat": 47.63389,
+    "long": 25.28627
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Roman",
+    "lat": 46.825321,
+    "long": 21.739706
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Vasilescu",
+    "lat": 47.737418,
+    "long": 20.912876
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Stan",
+    "lat": 47.92579,
+    "long": 27.601555
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Rusu",
+    "lat": 47.699181,
+    "long": 23.291833
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Ciobanu",
+    "lat": 47.485233,
+    "long": 25.939484
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Ene",
+    "lat": 46.732759,
+    "long": 25.609664
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Sandu",
+    "lat": 45.188976,
+    "long": 24.505357
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Dumitrescu",
+    "lat": 46.876268,
+    "long": 22.382615
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Vasilescu",
+    "lat": 46.638038,
+    "long": 20.89673
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Iancu",
+    "lat": 44.411651,
+    "long": 20.433974
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Dumitrescu",
+    "lat": 46.788635,
+    "long": 21.37087
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Radu",
+    "lat": 48.434166,
+    "long": 26.091429
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Dobre",
+    "lat": 48.23344,
+    "long": 24.221966
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Simion",
+    "lat": 44.097083,
+    "long": 23.699351
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Grigorescu",
+    "lat": 46.478184,
+    "long": 29.226223
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Constantinescu",
+    "lat": 46.716001,
+    "long": 24.38215
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Cojocaru",
+    "lat": 47.727028,
+    "long": 29.087452
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Barbu",
+    "lat": 44.208202,
+    "long": 21.951419
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Radu",
+    "lat": 43.859759,
+    "long": 24.552185
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Constantinescu",
+    "lat": 47.761797,
+    "long": 27.463287
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Radu",
+    "lat": 44.73349,
+    "long": 25.311478
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Grigorescu",
+    "lat": 44.831792,
+    "long": 27.930911
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Georgescu",
+    "lat": 45.685087,
+    "long": 24.145514
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Ene",
+    "lat": 47.676402,
+    "long": 28.339558
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Dumitrescu",
+    "lat": 48.344172,
+    "long": 26.522903
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Badea",
+    "lat": 46.744115,
+    "long": 25.015349
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Panait",
+    "lat": 48.422337,
+    "long": 29.014429
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Tudor",
+    "lat": 46.802053,
+    "long": 21.129723
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Niculae",
+    "lat": 45.850051,
+    "long": 26.499909
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Grigorescu",
+    "lat": 47.734053,
+    "long": 27.96399
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Rusu",
+    "lat": 45.233436,
+    "long": 27.734518
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Niculescu",
+    "lat": 47.576884,
+    "long": 27.64507
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Dumitrescu",
+    "lat": 47.824922,
+    "long": 22.940133
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Coman",
+    "lat": 44.110548,
+    "long": 28.190576
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Lungu",
+    "lat": 47.74291,
+    "long": 23.527463
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Vasilescu",
+    "lat": 47.534285,
+    "long": 28.003421
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Ciobanu",
+    "lat": 44.686977,
+    "long": 24.326569
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Roman",
+    "lat": 45.487366,
+    "long": 22.824126
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Sava",
+    "lat": 47.692867,
+    "long": 20.409278
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Chirita",
+    "lat": 45.840754,
+    "long": 28.507829
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Croitoru",
+    "lat": 47.089952,
+    "long": 28.105646
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Munteanu",
+    "lat": 45.248184,
+    "long": 23.081201
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Coman",
+    "lat": 44.089172,
+    "long": 22.930545
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Simion",
+    "lat": 48.29075,
+    "long": 26.338886
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Paraschiv",
+    "lat": 45.521397,
+    "long": 22.926531
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Lungu",
+    "lat": 47.911228,
+    "long": 26.093789
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Grigorescu",
+    "lat": 47.496846,
+    "long": 22.504831
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Tudor",
+    "lat": 45.983455,
+    "long": 22.257324
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Popa",
+    "lat": 47.311973,
+    "long": 22.895953
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Ciobanu",
+    "lat": 48.139799,
+    "long": 21.333551
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Badea",
+    "lat": 47.926279,
+    "long": 27.553541
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Popa",
+    "lat": 46.777563,
+    "long": 27.876889
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Petrescu",
+    "lat": 46.528249,
+    "long": 23.927785
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Munteanu",
+    "lat": 47.953555,
+    "long": 23.91475
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Ciobanu",
+    "lat": 46.198746,
+    "long": 21.617657
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Preda",
+    "lat": 43.606368,
+    "long": 25.610656
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Iancu",
+    "lat": 47.501369,
+    "long": 20.378734
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Ene",
+    "lat": 44.49718,
+    "long": 25.1835
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Tudor",
+    "lat": 44.816518,
+    "long": 22.83708
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Petcu",
+    "lat": 44.438487,
+    "long": 23.71499
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Anghel",
+    "lat": 44.387297,
+    "long": 25.580324
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Vlad",
+    "lat": 45.720201,
+    "long": 23.828298
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Chirita",
+    "lat": 46.414655,
+    "long": 28.381179
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Lungu",
+    "lat": 44.453688,
+    "long": 21.350532
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Niculae",
+    "lat": 45.866739,
+    "long": 23.806422
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Croitoru",
+    "lat": 46.20328,
+    "long": 21.580649
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Oprea",
+    "lat": 46.015077,
+    "long": 20.344043
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Iliescu",
+    "lat": 45.411715,
+    "long": 23.293591
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Petrescu",
+    "lat": 43.881983,
+    "long": 29.535458
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Alexandrescu",
+    "lat": 43.731088,
+    "long": 24.475828
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Munteanu",
+    "lat": 45.167193,
+    "long": 26.387562
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Cojocaru",
+    "lat": 46.854017,
+    "long": 27.205475
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Matei",
+    "lat": 48.589659,
+    "long": 28.133733
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Petcu",
+    "lat": 46.426032,
+    "long": 27.007617
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Alexandrescu",
+    "lat": 44.587802,
+    "long": 21.376606
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Paraschiv",
+    "lat": 46.357591,
+    "long": 24.386873
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Coman",
+    "lat": 46.292847,
+    "long": 23.950347
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Vlad",
+    "lat": 44.441223,
+    "long": 22.962255
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Voicu",
+    "lat": 47.270369,
+    "long": 22.745928
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Panait",
+    "lat": 47.405767,
+    "long": 24.628719
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Petrescu",
+    "lat": 47.445052,
+    "long": 24.644481
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Iancu",
+    "lat": 48.341131,
+    "long": 25.581412
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Georgescu",
+    "lat": 45.392242,
+    "long": 22.302727
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Matei",
+    "lat": 43.736672,
+    "long": 24.847476
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Popescu",
+    "lat": 45.627481,
+    "long": 20.853579
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Croitoru",
+    "lat": 48.685103,
+    "long": 28.836776
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Ene",
+    "lat": 44.083495,
+    "long": 22.207536
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Panait",
+    "lat": 46.40652,
+    "long": 27.18559
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Paraschiv",
+    "lat": 45.450193,
+    "long": 27.936618
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Petrescu",
+    "lat": 47.574399,
+    "long": 28.863391
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Vasilescu",
+    "lat": 45.920737,
+    "long": 21.09663
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Ciobanu",
+    "lat": 46.44765,
+    "long": 21.655307
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Dinu",
+    "lat": 48.439164,
+    "long": 25.335358
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Simion",
+    "lat": 46.670658,
+    "long": 29.511959
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Marin",
+    "lat": 48.195224,
+    "long": 27.880858
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Sandu",
+    "lat": 45.767693,
+    "long": 28.714654
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Popescu",
+    "lat": 45.724685,
+    "long": 20.58251
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Sandu",
+    "lat": 48.004012,
+    "long": 28.226508
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Sava",
+    "lat": 46.467616,
+    "long": 22.921788
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Sava",
+    "lat": 47.093454,
+    "long": 24.449777
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Dinu",
+    "lat": 45.32053,
+    "long": 27.615158
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Voinea",
+    "lat": 45.887227,
+    "long": 21.048776
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Panait",
+    "lat": 47.005052,
+    "long": 22.784994
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Vlad",
+    "lat": 44.791497,
+    "long": 25.847755
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Badea",
+    "lat": 45.638387,
+    "long": 24.712059
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Niculescu",
+    "lat": 45.780534,
+    "long": 28.542859
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Mihai",
+    "lat": 43.74367,
+    "long": 23.802046
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Iancu",
+    "lat": 46.441106,
+    "long": 29.029491
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Oprea",
+    "lat": 47.20506,
+    "long": 26.37677
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Simion",
+    "lat": 46.855398,
+    "long": 21.60553
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Paraschiv",
+    "lat": 45.089066,
+    "long": 20.932702
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Cojocaru",
+    "lat": 44.087657,
+    "long": 20.327245
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Niculescu",
+    "lat": 46.952693,
+    "long": 23.762131
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Popescu",
+    "lat": 46.014688,
+    "long": 28.252889
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Croitoru",
+    "lat": 47.727645,
+    "long": 29.09958
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Mihai",
+    "lat": 44.890779,
+    "long": 25.653676
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Roman",
+    "lat": 46.035603,
+    "long": 26.254608
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Alexandrescu",
+    "lat": 46.348325,
+    "long": 21.425828
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Dumitrescu",
+    "lat": 47.396006,
+    "long": 22.923349
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Marin",
+    "lat": 47.813645,
+    "long": 27.116292
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Georgescu",
+    "lat": 45.688366,
+    "long": 21.376536
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Tudor",
+    "lat": 44.457949,
+    "long": 27.29087
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Radu",
+    "lat": 44.33264,
+    "long": 22.798012
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Sava",
+    "lat": 45.770595,
+    "long": 21.182907
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Iancu",
+    "lat": 45.660754,
+    "long": 24.47836
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Vlad",
+    "lat": 45.085268,
+    "long": 20.331843
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Preda",
+    "lat": 44.643526,
+    "long": 21.081851
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Georgescu",
+    "lat": 47.245448,
+    "long": 27.869419
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Niculescu",
+    "lat": 46.486131,
+    "long": 24.456936
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Dumitrescu",
+    "lat": 45.907841,
+    "long": 27.65503
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Iliescu",
+    "lat": 48.081589,
+    "long": 22.36969
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Alexandrescu",
+    "lat": 47.130956,
+    "long": 26.088946
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Cojocaru",
+    "lat": 46.12252,
+    "long": 28.737367
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Coman",
+    "lat": 47.17448,
+    "long": 24.295307
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Panait",
+    "lat": 43.951521,
+    "long": 22.497703
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Munteanu",
+    "lat": 44.027187,
+    "long": 26.549684
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Ene",
+    "lat": 45.593785,
+    "long": 26.034814
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Petrescu",
+    "lat": 46.188804,
+    "long": 29.253907
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Georgescu",
+    "lat": 44.900631,
+    "long": 29.613709
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Croitoru",
+    "lat": 43.659513,
+    "long": 28.547341
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Marin",
+    "lat": 46.841492,
+    "long": 21.496748
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Sandu",
+    "lat": 46.658271,
+    "long": 26.224427
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Florea",
+    "lat": 44.787263,
+    "long": 21.302875
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Petcu",
+    "lat": 47.603511,
+    "long": 21.031007
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Popescu",
+    "lat": 46.086272,
+    "long": 27.056026
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Petrescu",
+    "lat": 45.927149,
+    "long": 20.743645
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Iliescu",
+    "lat": 44.346056,
+    "long": 22.622221
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Voicu",
+    "lat": 44.210959,
+    "long": 22.504099
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Vlad",
+    "lat": 47.484962,
+    "long": 28.87556
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Stanciu",
+    "lat": 47.611157,
+    "long": 21.157924
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Petrescu",
+    "lat": 44.218069,
+    "long": 24.86371
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Paraschiv",
+    "lat": 45.816043,
+    "long": 29.529355
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Dobre",
+    "lat": 43.922149,
+    "long": 24.79908
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Chirita",
+    "lat": 47.241846,
+    "long": 24.617395
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Vasilescu",
+    "lat": 45.911467,
+    "long": 24.597934
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Anghel",
+    "lat": 44.14537,
+    "long": 22.029741
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Croitoru",
+    "lat": 48.407928,
+    "long": 25.495719
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Lungu",
+    "lat": 47.993147,
+    "long": 26.764828
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Simion",
+    "lat": 44.716684,
+    "long": 24.43602
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Dobre",
+    "lat": 47.76371,
+    "long": 28.600835
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Panait",
+    "lat": 47.572192,
+    "long": 26.978542
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Constantinescu",
+    "lat": 45.797331,
+    "long": 22.260985
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Barbu",
+    "lat": 46.157555,
+    "long": 26.015692
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Anghel",
+    "lat": 44.211339,
+    "long": 21.792877
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Croitoru",
+    "lat": 44.047397,
+    "long": 26.727851
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Simion",
+    "lat": 44.743743,
+    "long": 26.174426
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Voicu",
+    "lat": 46.565026,
+    "long": 25.498834
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Petcu",
+    "lat": 46.000873,
+    "long": 25.34178
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Cojocaru",
+    "lat": 43.822444,
+    "long": 22.44147
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Stan",
+    "lat": 44.10033,
+    "long": 28.428689
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Paraschiv",
+    "lat": 45.979182,
+    "long": 24.544855
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Mihai",
+    "lat": 45.953035,
+    "long": 25.339419
+  },
+  {
+    "f_name": "Violeta",
+    "l_name": "Alexandrescu",
+    "lat": 45.55074,
+    "long": 29.272469
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Stan",
+    "lat": 48.010956,
+    "long": 28.736814
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Vasilescu",
+    "lat": 48.16072,
+    "long": 23.736929
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Petrescu",
+    "lat": 47.19207,
+    "long": 20.348251
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Croitoru",
+    "lat": 46.264401,
+    "long": 22.500357
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Matei",
+    "lat": 44.147339,
+    "long": 29.45846
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Roman",
+    "lat": 43.756686,
+    "long": 24.830256
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Ene",
+    "lat": 45.709013,
+    "long": 22.540014
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Croitoru",
+    "lat": 45.393833,
+    "long": 24.791847
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Marin",
+    "lat": 44.909582,
+    "long": 26.630583
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Iancu",
+    "lat": 43.898543,
+    "long": 28.28928
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Croitoru",
+    "lat": 46.569577,
+    "long": 20.630736
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Marin",
+    "lat": 44.380473,
+    "long": 28.2639
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Marin",
+    "lat": 48.412786,
+    "long": 29.584676
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Popa",
+    "lat": 45.509248,
+    "long": 27.798528
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Barbu",
+    "lat": 47.510393,
+    "long": 23.797267
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Grigorescu",
+    "lat": 43.697697,
+    "long": 24.950004
+  },
+  {
+    "f_name": "Andrei",
+    "l_name": "Cojocaru",
+    "lat": 47.338773,
+    "long": 24.335843
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Petrescu",
+    "lat": 47.941935,
+    "long": 25.999996
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Anghel",
+    "lat": 45.138079,
+    "long": 26.827806
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Croitoru",
+    "lat": 45.990942,
+    "long": 20.738706
+  },
+  {
+    "f_name": "Ioana",
+    "l_name": "Enache",
+    "lat": 46.735627,
+    "long": 25.885321
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Vasilescu",
+    "lat": 47.112067,
+    "long": 25.057125
+  },
+  {
+    "f_name": "Andreea",
+    "l_name": "Voicu",
+    "lat": 44.315648,
+    "long": 24.563947
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Grigorescu",
+    "lat": 46.468438,
+    "long": 24.883738
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Voinea",
+    "lat": 46.672117,
+    "long": 21.562916
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Cojocaru",
+    "lat": 44.465679,
+    "long": 23.41137
+  },
+  {
+    "f_name": "Emil",
+    "l_name": "Preda",
+    "lat": 45.867654,
+    "long": 23.159457
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Stan",
+    "lat": 45.653422,
+    "long": 22.559109
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Chirita",
+    "lat": 44.636624,
+    "long": 26.26937
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Oprea",
+    "lat": 44.477017,
+    "long": 27.353302
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Coman",
+    "lat": 46.031563,
+    "long": 27.94011
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Oprea",
+    "lat": 44.69716,
+    "long": 23.512873
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Niculescu",
+    "lat": 47.902055,
+    "long": 21.063912
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Iancu",
+    "lat": 44.76958,
+    "long": 23.532007
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Alexandrescu",
+    "lat": 47.377513,
+    "long": 27.676733
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Badea",
+    "lat": 46.573909,
+    "long": 29.549753
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Sandu",
+    "lat": 45.722641,
+    "long": 28.127359
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Ionescu",
+    "lat": 44.77184,
+    "long": 29.325139
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Enache",
+    "lat": 47.863111,
+    "long": 24.3122
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Cojocaru",
+    "lat": 44.380526,
+    "long": 24.305114
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Stanciu",
+    "lat": 46.91586,
+    "long": 24.65392
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Coman",
+    "lat": 43.641188,
+    "long": 27.929051
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Alexandrescu",
+    "lat": 44.225493,
+    "long": 26.161417
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Stanciu",
+    "lat": 46.485044,
+    "long": 23.088085
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Panait",
+    "lat": 46.472647,
+    "long": 26.456712
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Sava",
+    "lat": 47.429389,
+    "long": 26.355274
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Simion",
+    "lat": 48.32398,
+    "long": 29.243888
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Petcu",
+    "lat": 44.10864,
+    "long": 22.837495
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Stan",
+    "lat": 45.103205,
+    "long": 25.658133
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Marin",
+    "lat": 47.130311,
+    "long": 29.330446
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Georgescu",
+    "lat": 44.904005,
+    "long": 21.198976
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Georgescu",
+    "lat": 46.006873,
+    "long": 27.709647
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Munteanu",
+    "lat": 45.110433,
+    "long": 23.223237
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Alexandrescu",
+    "lat": 43.879129,
+    "long": 25.354151
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Anghel",
+    "lat": 47.990782,
+    "long": 29.580907
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Roman",
+    "lat": 46.304242,
+    "long": 22.14379
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Coman",
+    "lat": 47.134745,
+    "long": 22.495735
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Dobre",
+    "lat": 47.864837,
+    "long": 24.200145
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Matei",
+    "lat": 46.858275,
+    "long": 25.771466
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Ionescu",
+    "lat": 45.712512,
+    "long": 26.291174
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Dumitrescu",
+    "lat": 44.121333,
+    "long": 21.631348
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Munteanu",
+    "lat": 48.275317,
+    "long": 29.544368
+  },
+  {
+    "f_name": "Laura",
+    "l_name": "Niculescu",
+    "lat": 45.838064,
+    "long": 21.009545
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Anghel",
+    "lat": 44.542417,
+    "long": 24.75278
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Simion",
+    "lat": 44.502549,
+    "long": 25.512682
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Dobre",
+    "lat": 44.997421,
+    "long": 25.819849
+  },
+  {
+    "f_name": "Adrian",
+    "l_name": "Chirita",
+    "lat": 47.978165,
+    "long": 27.33749
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Badea",
+    "lat": 47.251509,
+    "long": 23.431777
+  },
+  {
+    "f_name": "Paul",
+    "l_name": "Stan",
+    "lat": 46.235416,
+    "long": 27.545195
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Lungu",
+    "lat": 44.881981,
+    "long": 21.593688
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Chirita",
+    "lat": 48.684192,
+    "long": 22.2952
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Ene",
+    "lat": 44.681658,
+    "long": 22.826867
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Florea",
+    "lat": 47.075421,
+    "long": 21.389669
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Dumitrescu",
+    "lat": 47.80429,
+    "long": 26.63056
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Sava",
+    "lat": 47.900261,
+    "long": 23.238323
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Stan",
+    "lat": 45.182961,
+    "long": 25.023115
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Petcu",
+    "lat": 48.606272,
+    "long": 22.386943
+  },
+  {
+    "f_name": "Stefan",
+    "l_name": "Radu",
+    "lat": 43.691129,
+    "long": 25.462536
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Preda",
+    "lat": 48.519637,
+    "long": 28.448793
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Filip",
+    "lat": 45.778592,
+    "long": 28.278367
+  },
+  {
+    "f_name": "Denisa",
+    "l_name": "Mihai",
+    "lat": 45.350006,
+    "long": 22.224295
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Enache",
+    "lat": 45.677206,
+    "long": 23.108857
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Vlad",
+    "lat": 46.672677,
+    "long": 27.492591
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Petrescu",
+    "lat": 46.962872,
+    "long": 26.607208
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Ciobanu",
+    "lat": 45.084428,
+    "long": 22.856994
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Croitoru",
+    "lat": 43.855006,
+    "long": 21.953398
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Paraschiv",
+    "lat": 44.390219,
+    "long": 28.284914
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Petrescu",
+    "lat": 47.919191,
+    "long": 20.746269
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Barbu",
+    "lat": 44.922362,
+    "long": 24.529672
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Enache",
+    "lat": 48.033979,
+    "long": 25.140853
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Coman",
+    "lat": 46.363436,
+    "long": 25.312983
+  },
+  {
+    "f_name": "Marinela",
+    "l_name": "Filip",
+    "lat": 47.103443,
+    "long": 21.674142
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Simion",
+    "lat": 46.192417,
+    "long": 26.449989
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Voicu",
+    "lat": 43.728847,
+    "long": 21.483748
+  },
+  {
+    "f_name": "Bogdan",
+    "l_name": "Vasilescu",
+    "lat": 46.901016,
+    "long": 23.509469
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Petcu",
+    "lat": 45.077348,
+    "long": 22.448208
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Grigorescu",
+    "lat": 48.669084,
+    "long": 28.307429
+  },
+  {
+    "f_name": "Cristian",
+    "l_name": "Petrescu",
+    "lat": 45.31214,
+    "long": 23.721095
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Munteanu",
+    "lat": 44.021755,
+    "long": 21.300624
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Ene",
+    "lat": 48.044272,
+    "long": 28.12354
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Roman",
+    "lat": 45.850178,
+    "long": 28.943286
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Vasilescu",
+    "lat": 47.879391,
+    "long": 26.444606
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Iliescu",
+    "lat": 46.749645,
+    "long": 27.693894
+  },
+  {
+    "f_name": "Petru",
+    "l_name": "Stan",
+    "lat": 47.78431,
+    "long": 26.418707
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Panait",
+    "lat": 48.134381,
+    "long": 26.375039
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Chirita",
+    "lat": 47.856074,
+    "long": 29.003392
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Dinu",
+    "lat": 46.627889,
+    "long": 26.738224
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Matei",
+    "lat": 46.011866,
+    "long": 25.430226
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Iliescu",
+    "lat": 45.844286,
+    "long": 21.542823
+  },
+  {
+    "f_name": "Lorena",
+    "l_name": "Rusu",
+    "lat": 45.14217,
+    "long": 29.511142
+  },
+  {
+    "f_name": "Mariana",
+    "l_name": "Vasilescu",
+    "lat": 45.870473,
+    "long": 26.177788
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Panait",
+    "lat": 44.516029,
+    "long": 24.080075
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Vasilescu",
+    "lat": 47.059159,
+    "long": 22.436055
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Lungu",
+    "lat": 45.748166,
+    "long": 23.22427
+  },
+  {
+    "f_name": "Radu",
+    "l_name": "Panait",
+    "lat": 47.246665,
+    "long": 29.312943
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Popescu",
+    "lat": 45.39746,
+    "long": 23.621369
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Vlad",
+    "lat": 43.797374,
+    "long": 21.34785
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Petcu",
+    "lat": 48.513391,
+    "long": 20.646671
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Preda",
+    "lat": 44.95788,
+    "long": 23.642568
+  },
+  {
+    "f_name": "Silviu",
+    "l_name": "Iancu",
+    "lat": 46.917906,
+    "long": 28.436778
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Ionescu",
+    "lat": 44.148427,
+    "long": 26.807144
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Simion",
+    "lat": 44.51334,
+    "long": 24.139162
+  },
+  {
+    "f_name": "Mihai",
+    "l_name": "Anghel",
+    "lat": 47.361289,
+    "long": 22.674803
+  },
+  {
+    "f_name": "Ioan",
+    "l_name": "Alexandrescu",
+    "lat": 48.479181,
+    "long": 24.636967
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Lungu",
+    "lat": 47.758839,
+    "long": 26.748125
+  },
+  {
+    "f_name": "Gabriel",
+    "l_name": "Iliescu",
+    "lat": 44.979872,
+    "long": 27.016799
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Marin",
+    "lat": 44.54866,
+    "long": 28.800239
+  },
+  {
+    "f_name": "Claudiu",
+    "l_name": "Voinea",
+    "lat": 47.8994,
+    "long": 23.096379
+  },
+  {
+    "f_name": "Alex",
+    "l_name": "Panait",
+    "lat": 44.03333,
+    "long": 23.579707
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Lungu",
+    "lat": 47.229463,
+    "long": 24.74235
+  },
+  {
+    "f_name": "Ramona",
+    "l_name": "Radu",
+    "lat": 43.969993,
+    "long": 21.434158
+  },
+  {
+    "f_name": "Sorina",
+    "l_name": "Enache",
+    "lat": 45.120944,
+    "long": 28.335393
+  },
+  {
+    "f_name": "Teodora",
+    "l_name": "Constantinescu",
+    "lat": 47.926257,
+    "long": 21.218589
+  },
+  {
+    "f_name": "Sergiu",
+    "l_name": "Iliescu",
+    "lat": 46.117956,
+    "long": 29.675082
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Sandu",
+    "lat": 47.662844,
+    "long": 26.964639
+  },
+  {
+    "f_name": "Valentin",
+    "l_name": "Popescu",
+    "lat": 47.437825,
+    "long": 25.347635
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Simion",
+    "lat": 44.166826,
+    "long": 21.318114
+  },
+  {
+    "f_name": "Catalin",
+    "l_name": "Simion",
+    "lat": 47.365297,
+    "long": 27.680027
+  },
+  {
+    "f_name": "Elena",
+    "l_name": "Cojocaru",
+    "lat": 45.258621,
+    "long": 21.196102
+  },
+  {
+    "f_name": "Ion",
+    "l_name": "Panait",
+    "lat": 48.068202,
+    "long": 26.330083
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Ciobanu",
+    "lat": 44.228252,
+    "long": 24.758911
+  },
+  {
+    "f_name": "Simona",
+    "l_name": "Niculescu",
+    "lat": 43.74794,
+    "long": 28.992484
+  },
+  {
+    "f_name": "Marius",
+    "l_name": "Matei",
+    "lat": 46.56714,
+    "long": 22.883586
+  },
+  {
+    "f_name": "Diana",
+    "l_name": "Grigorescu",
+    "lat": 48.453945,
+    "long": 23.031958
+  },
+  {
+    "f_name": "Florin",
+    "l_name": "Georgescu",
+    "lat": 46.930544,
+    "long": 27.511117
+  },
+  {
+    "f_name": "Ana",
+    "l_name": "Stan",
+    "lat": 48.181999,
+    "long": 21.810229
+  },
+  {
+    "f_name": "Daniel",
+    "l_name": "Oprea",
+    "lat": 47.311674,
+    "long": 24.723028
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Tudor",
+    "lat": 46.630645,
+    "long": 29.18413
+  },
+  {
+    "f_name": "Nicolae",
+    "l_name": "Voicu",
+    "lat": 44.736453,
+    "long": 29.159182
+  },
+  {
+    "f_name": "Oana",
+    "l_name": "Alexandrescu",
+    "lat": 45.347393,
+    "long": 23.131385
+  },
+  {
+    "f_name": "Alexandru",
+    "l_name": "Roman",
+    "lat": 45.199097,
+    "long": 27.055168
+  },
+  {
+    "f_name": "Maria",
+    "l_name": "Munteanu",
+    "lat": 44.689701,
+    "long": 28.623395
+  },
+  {
+    "f_name": "Anca",
+    "l_name": "Matei",
+    "lat": 46.443052,
+    "long": 22.585677
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Oprea",
+    "lat": 44.329198,
+    "long": 28.767436
+  },
+  {
+    "f_name": "Raluca",
+    "l_name": "Sava",
+    "lat": 44.976456,
+    "long": 28.722846
+  },
+  {
+    "f_name": "Ciprian",
+    "l_name": "Dumitrescu",
+    "lat": 46.605059,
+    "long": 22.91712
+  },
+  {
+    "f_name": "Alina",
+    "l_name": "Roman",
+    "lat": 48.280766,
+    "long": 22.433475
+  },
+  {
+    "f_name": "Vlad",
+    "l_name": "Radu",
+    "lat": 46.720854,
+    "long": 28.899587
+  },
+  {
+    "f_name": "Georgiana",
+    "l_name": "Dumitrescu",
+    "lat": 48.634237,
+    "long": 24.924603
+  },
+  {
+    "f_name": "Eliza",
+    "l_name": "Tudor",
+    "lat": 43.793816,
+    "long": 28.076293
+  },
+  {
+    "f_name": "Iulia",
+    "l_name": "Popescu",
+    "lat": 48.123535,
+    "long": 24.552198
+  }
+]

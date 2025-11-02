@@ -2,7 +2,40 @@ import math
 import psycopg2
 import json
 
+from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
+
+# trebuie scos . dinaine de config pentru rularea din linia de comanda
 from .config import DB_CONFIG_MASTER, DB_SHARDS, SHARDS_INFO, JSON_FILE
+
+def create_databases(DB_CONFIG_MASTER, DB_SHARDS):
+    default_conn = psycopg2.connect(
+        dbname="postgres",
+        user=DB_CONFIG_MASTER["user"],
+        password=DB_CONFIG_MASTER["password"],
+        host=DB_CONFIG_MASTER["host"],
+        port=DB_CONFIG_MASTER["port"]
+    )
+    default_conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+    cur = default_conn.cursor()
+
+    print("Dropping existing databases...")
+    all_dbs = [DB_CONFIG_MASTER["dbname"]] + [cfg["dbname"] for cfg in DB_SHARDS.values()]
+    for db_name in all_dbs:
+        cur.execute(f"SELECT 1 FROM pg_database WHERE datname = '{db_name}';")
+        if cur.fetchone():
+            cur.execute(f"DROP DATABASE {db_name};")
+            print(f"Database {db_name} dropped.")
+
+    print(f"Creating database {DB_CONFIG_MASTER['dbname']}...")
+    cur.execute(f"CREATE DATABASE {DB_CONFIG_MASTER['dbname']};")
+
+    for shard_name, cfg in DB_SHARDS.items():
+        print(f"Creating database {cfg['dbname']}...")
+        cur.execute(f"CREATE DATABASE {cfg['dbname']};")
+
+    cur.close()
+    default_conn.close()
+    print("All databases created successfully.")
 
 def recreate_master():
     conn = psycopg2.connect(**DB_CONFIG_MASTER)
@@ -19,16 +52,6 @@ def recreate_master():
             long_max DOUBLE PRECISION
         );
     """)
-
-    for shard in SHARDS_INFO:
-        lat_min = SHARDS_INFO[shard]["lat_min"]
-        lat_max = SHARDS_INFO[shard]["lat_max"]
-        long_min = SHARDS_INFO[shard]["long_min"]
-        long_max = SHARDS_INFO[shard]["long_max"]
-        cur.execute(r"""
-            INSERT INTO shard_metadata (shard_name, lat_min, lat_max, long_min, long_max)
-            VALUES (%s, %s, %s, %s, %s);
-        """, [shard, lat_min, lat_max, long_min, long_max])
 
     cur.execute("""
                 CREATE TABLE friendship (
@@ -64,12 +87,22 @@ def recreate_shard(DB_CONFIG):
     print(f"Shard DB {DB_CONFIG['dbname']} created.")
 
 
-def import_master():
+def populate_master():
     with open(JSON_FILE, "r", encoding="utf-8") as f:
         users = json.load(f)
 
     conn = psycopg2.connect(**DB_CONFIG_MASTER)
     cur = conn.cursor()
+
+    for shard in SHARDS_INFO:
+        lat_min = SHARDS_INFO[shard]["lat_min"]
+        lat_max = SHARDS_INFO[shard]["lat_max"]
+        long_min = SHARDS_INFO[shard]["long_min"]
+        long_max = SHARDS_INFO[shard]["long_max"]
+        cur.execute(r"""
+            INSERT INTO shard_metadata (shard_name, lat_min, lat_max, long_min, long_max)
+            VALUES (%s, %s, %s, %s, %s);
+        """, [shard, lat_min, lat_max, long_min, long_max])
 
     for u in users:
         user_id = u["id"]
@@ -84,15 +117,14 @@ def import_master():
     conn.close()
     print(f"Friendships added to master DB.")
 
-def import_shard(DB_CONFIG, lat_min, lat_max):
+def populate_shard(DB_CONFIG, lat_min, lat_max, long_min, long_max):
     with open(JSON_FILE, "r", encoding="utf-8") as f:
         users = json.load(f)
 
     conn = psycopg2.connect(**DB_CONFIG)
     cur = conn.cursor()
 
-    # filtram utilizatorii pentru shard
-    shard_users = [u for u in users if lat_min <= u["lat"] <= lat_max]
+    shard_users = [u for u in users if lat_min <= u["lat"] <= lat_max and long_min <= u["long"] <= long_max]
     data_to_insert = [(u["id"], u["f_name"], u["l_name"], u["lat"], u["long"]) for u in shard_users]
 
     cur.executemany("""
@@ -100,22 +132,11 @@ def import_shard(DB_CONFIG, lat_min, lat_max):
         VALUES (%s, %s, %s, %s, %s)
     """, data_to_insert)
 
-    ids_in_shard = set(u["id"] for u in shard_users)
-    for u in shard_users:
-        user_id = u["id"]
-        for friend_id in u["friends"]:
-            if friend_id in ids_in_shard:  # doar cei din shard
-                cur.execute("""
-                            INSERT INTO friendship (user_id, friend_id)
-                            VALUES (%s, %s) ON CONFLICT DO NOTHING;
-                            """, (user_id, friend_id))
-
     conn.commit()
     cur.close()
     conn.close()
     print(f"{len(shard_users)} users imported into {DB_CONFIG['dbname']}.")
 
-DB_MASTER = DB_CONFIG_MASTER
 
 def get_shards_for_query(lat, lon, distance_km):
     km_per_deg_lat = 111
@@ -126,29 +147,30 @@ def get_shards_for_query(lat, lon, distance_km):
     lon_min_q = lon - distance_km / km_per_deg_lon
     lon_max_q = lon + distance_km / km_per_deg_lon
 
-    conn = psycopg2.connect(**DB_MASTER)
-    cur = conn.cursor()
-    cur.execute("SELECT shard_name, lat_min, lat_max, long_min, long_max FROM shard_metadata;")
-    shards = cur.fetchall()
-    cur.close()
-    conn.close()
-
     result_shards = []
-    for shard in shards:
-        shard_name, lat_min, lat_max, long_min, long_max = shard
 
-        if not (lat_max < lat_min_q or lat_min > lat_max_q or
-                long_max < lon_min_q or long_min > lon_max_q):
+    for shard_name, shard in SHARDS_INFO.items():
+        if not (shard["lat_max"] < lat_min_q or shard["lat_min"] > lat_max_q or
+                shard["long_max"] < lon_min_q or shard["long_min"] > lon_max_q):
             result_shards.append(shard_name)
 
     return result_shards
 
-
 if __name__ == "__main__":
-    recreate_master()
-    recreate_shard(DB_SHARDS["shard_north_db"])
-    recreate_shard(DB_SHARDS["shard_south_db"])
+    create_databases(DB_CONFIG_MASTER, DB_SHARDS)
 
-    import_master()
-    import_shard(DB_SHARDS["shard_north_db"], lat_min=SHARDS_INFO["shard_north_db"]["lat_min"], lat_max=SHARDS_INFO["shard_north_db"]["lat_max"])
-    import_shard(DB_SHARDS["shard_south_db"], lat_min=SHARDS_INFO["shard_south_db"]["lat_min"], lat_max=SHARDS_INFO["shard_south_db"]["lat_max"])
+    recreate_master()
+    recreate_shard(DB_SHARDS["shard_nv_db"])
+    recreate_shard(DB_SHARDS["shard_ne_db"])
+    recreate_shard(DB_SHARDS["shard_sv_db"])
+    recreate_shard(DB_SHARDS["shard_se_db"])
+
+    populate_master()
+    populate_shard(DB_SHARDS["shard_nv_db"], lat_min=SHARDS_INFO["shard_nv_db"]["lat_min"], lat_max=SHARDS_INFO["shard_nv_db"]["lat_max"],
+                                            long_min=SHARDS_INFO["shard_nv_db"]["long_min"], long_max=SHARDS_INFO["shard_nv_db"]["long_max"])
+    populate_shard(DB_SHARDS["shard_ne_db"], lat_min=SHARDS_INFO["shard_ne_db"]["lat_min"], lat_max=SHARDS_INFO["shard_ne_db"]["lat_max"],
+                                            long_min=SHARDS_INFO["shard_ne_db"]["long_min"], long_max=SHARDS_INFO["shard_ne_db"]["long_max"])
+    populate_shard(DB_SHARDS["shard_sv_db"], lat_min=SHARDS_INFO["shard_sv_db"]["lat_min"], lat_max=SHARDS_INFO["shard_sv_db"]["lat_max"],
+                                            long_min=SHARDS_INFO["shard_sv_db"]["long_min"], long_max=SHARDS_INFO["shard_sv_db"]["long_max"])
+    populate_shard(DB_SHARDS["shard_se_db"], lat_min=SHARDS_INFO["shard_se_db"]["lat_min"], lat_max=SHARDS_INFO["shard_se_db"]["lat_max"],
+                                            long_min=SHARDS_INFO["shard_se_db"]["long_min"], long_max=SHARDS_INFO["shard_se_db"]["long_max"])

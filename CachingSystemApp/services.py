@@ -42,8 +42,7 @@ def find_nearby_friends(user_id, lat_ref, long_ref, distance_km):
             ORDER BY distance;
         """
 
-        cur.execute(query, [lat_ref, long_ref, lat_ref, friend_ids,
-                            distance_km])
+        cur.execute(query, [lat_ref, long_ref, lat_ref, friend_ids, distance_km])
         rows = cur.fetchall()
 
         total_friends += len(rows)

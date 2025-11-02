@@ -132,7 +132,7 @@
         .then(data => {
           document.getElementById('responseTime').innerText =
             `PostgreSQL response: ${data.pg_query_time_ms} ms (${data.no_users} users)
-             | Redis response: ${data.redis_query_time_ms} ms`;
+             Redis response: ${data.redis_query_time_ms} ms`;
 
           // --- PG Table ---
           const pgBody = document.querySelector("#resultsTablePG tbody");

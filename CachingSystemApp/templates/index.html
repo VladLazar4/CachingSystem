@@ -64,6 +64,17 @@
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
     let ID = 1;
+
+    var greenIcon = L.icon({
+        iconUrl: './fig/green.png',
+
+        iconSize:     [20, 20],
+        shadowSize:   [50, 64],
+        iconAnchor:   [0, 0],
+        shadowAnchor: [0, 0],
+        popupAnchor:  [0, 0]
+    });
+
     let map = L.map('map').setView([46.77, 23.59], 7);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '© OpenStreetMap contributors'
@@ -135,7 +146,7 @@
               <td>${user.distance.toFixed(3)}</td>
             </tr>`;
             pgBody.insertAdjacentHTML('beforeend', row);
-            const marker = L.circleMarker([user.lat, user.long], { color: 'blue' }).addTo(map);
+            const marker = L.marker([user.lat, user.long], {icon: greenIcon}).addTo(map);
             pgMarkers.push(marker);
           });
 

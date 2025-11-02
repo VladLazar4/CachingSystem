@@ -24,6 +24,7 @@ def find_nearby_users(lat_ref, long_ref, distance_km):
         cursor.execute(query, [lat_ref, long_ref, lat_ref, distance_km])
 
         rows = cursor.fetchall()
+        query_time_ms = round((time.perf_counter() - start) * 1000, 2)
 
     result = []
     for row in rows:
@@ -35,5 +36,4 @@ def find_nearby_users(lat_ref, long_ref, distance_km):
             "long": row[4],
             "distance": round(row[5], 2)
         })
-    query_time_ms = round((time.perf_counter() - start) * 1000, 2)
     return result, query_time_ms, len(rows)

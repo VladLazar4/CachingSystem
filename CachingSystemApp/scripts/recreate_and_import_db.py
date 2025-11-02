@@ -5,7 +5,7 @@ DB_CONFIG = {
     "dbname": "proximity_db",
     "user": "vlad",
     "password": "vlad123",
-    "host": "db",
+    "host": "localhost",
     "port": 5432
 }
 
